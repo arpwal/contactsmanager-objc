@@ -2,13 +2,28 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS-lightgrey)](https://github.com/arpwal/contactsmanager-objc)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/arpwal/contactsmanager-objc/releases)
 [![Documentation](https://img.shields.io/badge/docs-contactsmanager.io-blue)](https://docs.contactsmanager.io)
+[![Slack](https://img.shields.io/badge/slack-join_chat-brightgreen)](https://join.slack.com/t/contactsmanagersdk/shared_invite/zt-34as6nm2u-N7oMFvcQFoXwQvIo~ePJ1g)
 
 ContactsManager.io is a powerful contact management solution designed specifically for consumer app builders. It provides a seamless, secure, and efficient way to manage user contacts across platforms while maintaining the highest standards of privacy and security.
 
 📚 [Full Documentation](https://docs.contactsmanager.io)  
-🚀 [Quick Start Guide](https://docs.contactsmanager.io/quickstart)
+🚀 [Quick Start Guide](https://docs.contactsmanager.io/quickstart)  
+💬 [Join our Slack Community](https://join.slack.com/t/contactsmanagersdk/shared_invite/zt-34as6nm2u-N7oMFvcQFoXwQvIo~ePJ1g)
+
+## Key Features
+
+| Feature                     | Description                                                                      | Documentation                                                                             |
+| --------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Follow Contacts](#)        | Enable users to follow others and receive their updates                          | [Social Features](https://docs.contactsmanager.io/features/social-features)               |
+| [Activity Feeds](#)         | Build chronological feeds of user activities and interactions                    | [Social Features](https://docs.contactsmanager.io/features/social-features)               |
+| [Friend Recommendations](#) | Discover users who might be real-world connections without sharing contact lists | [Friend Recommendations](https://docs.contactsmanager.io/features/friend-recommendations) |
+| [Contact Search](#)         | Multi-field search across names, phones, emails with fuzzy matching              | [Contacts Search](https://docs.contactsmanager.io/features/contacts-search)               |
+| [App User Discovery](#)     | Identify which contacts are already using your application                       | [Friend Recommendations](https://docs.contactsmanager.io/features/friend-recommendations) |
+| [Offline Support](#)        | Full functionality even without internet connectivity                            | [Offline Functionality](https://docs.contactsmanager.io/features/offline-functionality)   |
+| [Privacy Protection](#)     | Military-grade encryption and local processing of contact data                   | [Privacy By Design](https://docs.contactsmanager.io/features/privacy-by-design)           |
+
+[View all features and documentation →](https://docs.contactsmanager.io/quickstart)
 
 ## Getting Started
 
@@ -168,3 +183,13 @@ For more information and documentation, visit [docs.contactsmanager.io](https://
 ## License
 
 MIT License
+
+## Community & Support
+
+We're here to help you build amazing social experiences in your apps. Join our community to get help, share feedback, and connect with other developers:
+
+- 💬 [Join our Slack Community](https://join.slack.com/t/contactsmanagersdk/shared_invite/zt-34as6nm2u-N7oMFvcQFoXwQvIo~ePJ1g)
+- 📚 [Documentation](https://docs.contactsmanager.io)
+- 🐛 [Report Issues](https://github.com/arpwal/contactsmanager-objc/issues)
+- 💡 [Feature Requests](https://github.com/arpwal/contactsmanager-objc/discussions)
+- 📧 [Email Support](mailto:support@contactsmanager.io)
